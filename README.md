@@ -1,5 +1,5 @@
 <h1>Projeto de uma maratona de um canal do  youtube DevSuperior</h1>
-<h2>O objetivo do projeto é aprender a criar projetos back-end java, com o framework javaSpring. o projeto é uma lista de jogos.</h2>
+<h2>O objetivo do projeto é aprender a criar projetos back-end java, com o framework javaSpring. O projeto é uma lista de jogos.</h2>
 <p>O que eu aprendi na aula 1 e o que eu desenvolvi?</p>
 <ul>
     <li>Conceitos</li>
